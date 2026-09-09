@@ -16,6 +16,7 @@ Absolute numbers lack context. The pipeline applies the `NTILE(4)` window functi
 
 **Step 3: Business Categorization**
 The final logic engine utilizes SQL `CASE` statements to translate numerical quartiles into plain English business segments.
+
 ![Final Segmented Output](assets/03_final_business_segments.png)
 
 ### The Code Repository
