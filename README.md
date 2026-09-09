@@ -1,6 +1,4 @@
-# Customer-Segmentation-BigQuery
-RFM (Recency, Frequency, Monetary) Customer Segmentation pipeline built in Google Cloud BigQuery
-# SaaS Customer RFM Segmentation Pipeline
+# Customer RFM Segmentation Pipeline
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### The Business Case
