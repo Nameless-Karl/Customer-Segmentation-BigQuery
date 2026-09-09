@@ -25,3 +25,4 @@ The final logic engine utilizes SQL `CASE` statements to translate numerical qua
 ### Operational Impact
 * **At-Risk Customers** automatically trigger a review by the Customer Success team, enabling proactive churn mitigation.
 * **High Value Customers** are excluded from unnecessary promotional discounts to protect revenue margins.
+* **Read more** via *https://highfalutin-hardcover-30d.notion.site/Operationalizing-Retention-RFM-Segmentation-via-BigQuery-3d6f3e7ab121802d83bff16d3d025ff2?source=copy_link*
